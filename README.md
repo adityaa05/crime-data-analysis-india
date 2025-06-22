@@ -13,7 +13,7 @@ The Crime Data Analysis Dashboard is an interactive Power BI report built to tur
 - 🔄 **Power Query** – Data ingestion, cleansing, and reshaping.  
 - 🧮 **DAX (Data Analysis Expressions)** – Calculated measures, dynamic filtering, and conditional logic.  
 - 📐 **Data Modeling** – Relationships between tables (crime incidents, police deployment, demographics, weapons).  
-- 💾 **File Format** – `.pbix` for the dashboard; `.png` for embedded previews in this repository.
+- 💾 **File Format** – `.pbit` for the dashboard; `.png` for embedded previews in this repository.
 
 ---
 
