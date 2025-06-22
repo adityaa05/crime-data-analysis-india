@@ -78,7 +78,7 @@ git clone https://github.com/<your-username>/crime-data-analysis-india.git
 
 ### 2. Open the Power Bi Dashboard
 
-Launch the `Crime_Data_Dashboard.pbix` file using **Power BI Desktop**.
+Launch the `Dashboard/Crime_Data_Dashboard.pbit` file using **Power BI Desktop**.
 
 ### 3. Prepare the Data Folder
 
@@ -109,6 +109,5 @@ Use the available **slicers** in the dashboard to filter and analyze data by:
 - Yash Tapre    
 - Pratik Gouda
 
----
 
 
