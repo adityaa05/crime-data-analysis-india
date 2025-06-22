@@ -63,7 +63,7 @@ Extensive crime data exists across Indian cities but lacks meaningful visualizat
 ---
 
 ## 5. Screenshots / Demo  
-![Dashboard Overview](screenshots/dashboard_page1.png)  
+![Dashboard Overview](Dashboard/dashboard_pages/dashboard_overview.png)  
 *Combined view of case counts by year & domain, city map, weapon usage and time-of-day heatmap.*
 
 ![Operational Metrics](screenshots/dashboard_page2.png)  
