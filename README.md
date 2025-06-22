@@ -84,7 +84,7 @@ Launch the `Dashboard/Crime_Data_Dashboard.pbit` file using **Power BI Desktop**
 
 Make sure the `Data/` folder contains the following file:
 
-- Crime incidents CSV  
+- Data/crime_incidents.csv
 
 ### 4. Refresh the Data Connection
 
