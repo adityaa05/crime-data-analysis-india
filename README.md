@@ -66,7 +66,7 @@ Extensive crime data exists across Indian cities but lacks meaningful visualizat
 ![Dashboard Overview](Dashboard/dashboard_pages/dashboard_overview.png)  
 *Combined view of case counts by year & domain, city map, weapon usage and time-of-day heatmap.*
 
-![Operational Metrics](screenshots/dashboard_page2.png)  
+![Operational Metrics](Dashboard/dashboard_pages/dashboard_demographics.png)  
 *KPI cards, police deployment by city, officer effectiveness, closure-time gauge, and crime-type breakdown.*
 
 ---
