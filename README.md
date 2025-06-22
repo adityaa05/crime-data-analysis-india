@@ -74,7 +74,7 @@ Extensive crime data exists across Indian cities but lacks meaningful visualizat
 
 ### 1. Clone this repository
 
-git clone https://github.com/<your-username>/crime-data-analysis-india.git
+git clone [https://github.com/<your-username>/crime-data-analysis-india.git](https://github.com/adityaa05/crime-data-analysis-india.git)
 
 ### 2. Open the Power Bi Dashboard
 
@@ -82,7 +82,7 @@ Launch the `Dashboard/Crime_Data_Dashboard.pbit` file using **Power BI Desktop**
 
 ### 3. Prepare the Data Folder
 
-Make sure the `data/` folder contains the following file:
+Make sure the `Data/` folder contains the following file:
 
 - Crime incidents CSV  
 
